@@ -1,0 +1,11 @@
+{
+    "name": "greeter-bot",
+    "version": "1.0.0",
+    "description": "Drink Water Reminder Bot",
+    "main": "bot.js",
+    "author": "Russel Ahsan",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "winston": "^3.2.1"
+    }
+}
